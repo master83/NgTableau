@@ -1,6 +1,6 @@
-Simple integration for Tableau reports with Angular2+ versions.
-
 # NgTableau
+
+## Simple integration for Tableau reports with Angular2+ versions.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.0.
 
